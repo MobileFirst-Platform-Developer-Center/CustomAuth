@@ -1,0 +1,14 @@
+jsonstore
+mips
+arm64-v8a
+armeabi
+armeabi-v7a
+mips64
+x86_64
+android-async-http.jar
+bcprov.jar
+uicandroid.jar
+worklight-android.jar
+android-cloudant-data-layer-sdk-readme.txt
+push.png
+proguard-project.txt
