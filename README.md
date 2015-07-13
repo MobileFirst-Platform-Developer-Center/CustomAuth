@@ -1,13 +1,13 @@
 IBM MobileFirst Platform Foundation
 ===
-### Sample Name
-
+### Custom authentication
+This sample shows how to create a custom authenticator and a login module, and define a realm.
 
 ### Usage
-Follow the instructions in the tutorials listed below.
+Follow the instructions in the tutorial(s) listed below.
 
 ### Tutorials
-
+https://developer.ibm.com/mobilefirstplatform/documentation/getting-started-7-1/foundation/authentication-security/custom-authentication/
 
 ### Supported Levels
 IBM MobileFirst Platform Foundation 7.1
