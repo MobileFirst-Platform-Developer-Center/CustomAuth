@@ -8,7 +8,7 @@
     FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND ANY WARRANTY OR CONDITION OF NON-INFRINGEMENT. IBM SHALL NOT BE LIABLE FOR ANY DIRECT,
     INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR OPERATION OF THE SAMPLE SOURCE CODE.
     IBM HAS NO OBLIGATION TO PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS OR MODIFICATIONS TO THE SAMPLE SOURCE CODE.
- --><nativeWindowsPhone8App xmlns="http://www.worklight.com/native-windowsphone8-descriptor" id="NativeWP8CustomAuth" platformVersion="7.1.0.00.20150604-0700" version="1.0">
+ --><nativeWindowsPhone8App xmlns="http://www.worklight.com/native-windowsphone8-descriptor" id="NativeWP8CustomAuth" platformVersion="7.1.0.00.20150720-0602" version="1.0">
 	
 	<displayName>NativeWP8CustomAuth</displayName>
 	<description>NativeWP8CustomAuth</description>
