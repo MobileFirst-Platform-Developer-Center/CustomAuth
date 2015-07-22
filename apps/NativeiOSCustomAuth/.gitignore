@@ -1,0 +1,4 @@
+*
+!.gitignore
+!application-descriptor.xml
+!worklight.plist
